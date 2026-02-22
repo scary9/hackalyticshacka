@@ -6,7 +6,7 @@ export default function Home() {
     <div className="home-container">
       <div className="home-content">
         <div className="hero-section">
-          <h1 className="hero-title">Stream Highlight Generator</h1>
+          <h1 className="hero-title">Clipt</h1>
           <p className="hero-subtitle">
             Transform any YouTube or Twitch stream into a viral TikTok-ready highlight in seconds
           </p>
