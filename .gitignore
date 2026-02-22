@@ -1,0 +1,18 @@
+# Python
+backend/venv/
+__pycache__/
+*.py[cod]
+
+# Node
+frontend/node_modules/
+frontend/dist/
+
+# Outputs
+backend/outputs/
+
+# Env
+backend/.env
+frontend/.env
+
+# VSCode
+.vscode/

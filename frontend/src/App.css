@@ -1,0 +1,5 @@
+/* App wrapper styles - no specific styling needed as pages handle their own layout */
+#root {
+  width: 100%;
+  min-height: 100vh;
+}
